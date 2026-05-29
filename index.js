@@ -1,5 +1,3 @@
-bash
-cat > /mnt/user-data/outputs/index.js << 'ENDOFFILE'
 /**
  * ═══════════════════════════════════════════════════════════════
  *   UNKNOWNSUBMITTER — Islamic Knowledge Bot
